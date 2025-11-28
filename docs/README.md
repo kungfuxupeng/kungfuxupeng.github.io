@@ -20,4 +20,4 @@ features:
 
 ## 最新文章
 
-- [我的第一篇文章](/posts/first-post.md)
+- [我的第一篇文章](/IT/git.md)
