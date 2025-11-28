@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: 欢迎来到王小明的博客
+heroText: 欢迎来到许鹏的博客
 tagline: 记录学习与生活
 actions:
   - text: 开始阅读
