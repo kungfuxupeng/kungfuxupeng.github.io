@@ -4,7 +4,7 @@ import { defineUserConfig } from 'vuepress'
 
 export default defineUserConfig({
   lang: 'zh-CN',
-  title: '我的博客',
+  title: '王小明的博客',
   description: '使用 VuePress 搭建的个人博客',
   base: '/',
   
@@ -13,7 +13,8 @@ export default defineUserConfig({
   theme: defaultTheme({
     navbar: [
       { text: '首页', link: '/' },
-      { text: '文章', link: '/IT/' },
+      { text: 'IT', link: '/IT/' },
+      { text: '生活杂谈', link: '/others/' },
       { text: 'GitHub', link: 'https://github.com/kungfuxupeng' }
     ],
     sidebar: 'auto'
