@@ -1,13 +1,13 @@
 ---
 home: true
-heroText: 欢迎来到许鹏的博客
-tagline: 记录学习与生活
+heroText: 欢迎来到王小明的博客
+tagline: 记录学习、工作和生活
 actions:
   - text: 开始阅读
     link: /IT/
     type: primary
-  - text: GitHub
-    link: https://github.com
+  - text: 快速上手 →
+    link: /IT/使用 VuePress 搭建 GitHub Pages 博客完整指南.html
     type: secondary
 features:
   - title: 简洁至上
@@ -20,4 +20,5 @@ features:
 
 ## 最新文章
 
-- [我的第一篇文章](/IT/git.md)
+- [git的用法](/IT/git.md)
+-  [使用 VuePress 搭建 GitHub Pages 博客完整指南](/IT/使用 VuePress 搭建 GitHub Pages 博客完整指南.md)

@@ -13,8 +13,8 @@ export default defineUserConfig({
   theme: defaultTheme({
     navbar: [
       { text: '首页', link: '/' },
-      { text: '文章', link: '/posts/' },
-      { text: 'GitHub', link: 'https://github.com/你的用户名' }
+      { text: '文章', link: '/IT/' },
+      { text: 'GitHub', link: 'https://github.com/kungfuxupeng' }
     ],
     sidebar: 'auto'
   })
