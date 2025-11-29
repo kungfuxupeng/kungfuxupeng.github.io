@@ -19,6 +19,7 @@ features:
 ---
 
 ## 最新文章
-
-- [git的用法](/IT/git.html)
+- [使用 VuePress 搭建 GitHub Pages 博客完整指南](IT/使用%20VuePress%20搭建%20GitHub%20Pages%20博客完整指南.md)
+- - [使用 VuePress 搭建 GitHub Pages 博客完整指南](IT/使用%20VuePress%20搭建%20GitHub%20Pages%20博客完整指南.html)
+- [git的用法](/IT/git的常见用法.html)
 - [使用 VuePress 搭建 GitHub Pages 博客完整指南](/IT/使用 VuePress 搭建 GitHub Pages 博客完整指南.html)
