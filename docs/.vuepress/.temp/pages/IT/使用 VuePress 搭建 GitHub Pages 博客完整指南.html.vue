@@ -42,8 +42,8 @@
 <div class="language-bash line-numbers-mode" data-highlighter="prismjs" data-ext="sh"><pre v-pre><code class="language-bash"><span class="line"><span class="token function">mkdir</span> docs </span>
 <span class="line"><span class="token function">mkdir</span> docs/.vuepress</span>
 <span class="line"></span></code></pre>
-<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div></div></div><p>目录结构如下：
-<img src="@source/IT/assets/使用 VuePress 搭建 GitHub Pages 博客完整指南/file-20251129195540691.png" alt=""></p>
+<div class="line-numbers" aria-hidden="true" style="counter-reset:line-number 0"><div class="line-number"></div><div class="line-number"></div></div></div><p>目录结构如下：</p>
+<p><img src="@source/IT/assets/使用 VuePress 搭建 GitHub Pages 博客完整指南/file-20251129195540691.png" alt=""></p>
 <h2 id="步骤三-配置-vuepress" tabindex="-1"><a class="header-anchor" href="#步骤三-配置-vuepress"><span>步骤三：配置 VuePress</span></a></h2>
 <pre><code>创建 `docs/.vuepress/config.js` 文件，替换`你的用户名`为实际用户名
 </code></pre>

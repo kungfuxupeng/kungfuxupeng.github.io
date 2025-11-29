@@ -52,6 +52,7 @@ mkdir docs/.vuepress
 ```
 
 目录结构如下：
+
 ![](assets/使用%20VuePress%20搭建%20GitHub%20Pages%20博客完整指南/file-20251129195540691.png)
 
 ## 步骤三：配置 VuePress

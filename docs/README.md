@@ -20,5 +20,5 @@ features:
 
 ## 最新文章
 
-- [git的用法](/IT/git.md)
--  [使用 VuePress 搭建 GitHub Pages 博客完整指南](/IT/使用 VuePress 搭建 GitHub Pages 博客完整指南.md)
+- [git的用法](/IT/git.html)
+- [使用 VuePress 搭建 GitHub Pages 博客完整指南](/IT/使用 VuePress 搭建 GitHub Pages 博客完整指南.html)
