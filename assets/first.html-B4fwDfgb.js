@@ -1,4 +1,4 @@
-import{_ as o,c as s,e as r,o as p}from"./app-BjFgIJwu.js";const n={};function t(a,e){return p(),s("div",null,[...e[0]||(e[0]=[r(`<h1 id="安装" tabindex="-1"><a class="header-anchor" href="#安装"><span>安装</span></a></h1><pre><code>本博客VuePress主版本为0.x，相关配置最新的1.x也兼容，请放心使用。另请确认你的Node.js &gt;= 8 
+import{_ as o,c as s,e as r,o as p}from"./app-DtvqkEnL.js";const n={};function t(a,e){return p(),s("div",null,[...e[0]||(e[0]=[r(`<h1 id="安装" tabindex="-1"><a class="header-anchor" href="#安装"><span>安装</span></a></h1><pre><code>本博客VuePress主版本为0.x，相关配置最新的1.x也兼容，请放心使用。另请确认你的Node.js &gt;= 8 
 </code></pre><p>全局安装(推荐)</p><p>通常而言，全局安装 VuePress 会非常省心，可以通过如下命令进行全局安装</p><pre><code>$ npm install -g vuepress
 复制代码
 </code></pre><p>本地安装</p><p>区别于全局安装，本地安装会把npm包安装在本项目上，生成一个叫node_modules目录，可以通过如下命令进行本地安装（需同时安装vuepress和webpack-dev-middleware）</p><pre><code>$ npm install vuepress webpack-dev-middleware --save-dev

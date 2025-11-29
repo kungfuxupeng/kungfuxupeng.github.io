@@ -1,4 +1,4 @@
-import{_ as n,c as o,e as t,o as a}from"./app-BjFgIJwu.js";const r={};function s(i,e){return a(),o("div",null,[...e[0]||(e[0]=[t(`<h1 id="项目目录" tabindex="-1"><a class="header-anchor" href="#项目目录"><span>项目目录</span></a></h1><p>VuePress 作为一个静态网站生成器，它对于项目的目录是有一定的限制的，一个基本的项目结构如下所示</p><pre><code>|-- docs // 特定的目录
+import{_ as n,c as o,e as t,o as a}from"./app-DtvqkEnL.js";const r={};function s(i,e){return a(),o("div",null,[...e[0]||(e[0]=[t(`<h1 id="项目目录" tabindex="-1"><a class="header-anchor" href="#项目目录"><span>项目目录</span></a></h1><p>VuePress 作为一个静态网站生成器，它对于项目的目录是有一定的限制的，一个基本的项目结构如下所示</p><pre><code>|-- docs // 特定的目录
     |-- README.md // 首页
     |-- .vuepress // 特定的目录
         |-- config.js // 特定的配置文件
